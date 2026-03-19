@@ -46,7 +46,7 @@ This project is built with **Foundry**.
 
 ```bash
 # Clone the repo
-git clone <repository_url>
+git clone <https://github.com/vedantghate18/Defi-Stablecoin>
 cd foundry-defi-StableCoin
 
 # Install dependencies & libraries
